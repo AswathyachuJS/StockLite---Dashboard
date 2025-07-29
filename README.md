@@ -3,7 +3,7 @@
 **StockLite** is a lightweight, real-time stock market dashboard built with **Streamlit** and powered by **YFinance**. Whether you're an investor, student, or data enthusiast, StockLite gives you quick, visual insights into the stock market without the hassle of installation.
 
 🚀 **Live App**:
-👉 [Launch StockLite Now](https://stocklite---dashboard.streamlit.app/)
+👉 [Launch StockLite Now](https://stocklite-dashboard.streamlit.app/)
 🖥️ *Runs on Streamlit Cloud — No installation required!*
 
 ---
