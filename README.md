@@ -43,7 +43,7 @@ streamlit run app.py
 
 ---
 
-## ✨ About the Developer
+## ** ✨ About the Developer **
 Created with ❤️ by Aswathy J S
 
 ---
