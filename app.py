@@ -51,4 +51,4 @@ else:
     st.info("Please select at least one stock to view data.")
 
 st.markdown("---")
-st.markdown("📌 *Built by Ashwathy using Streamlit & yfinance.*")
+st.markdown("📌 *Built by Aswathy using Streamlit & yfinance.*")
