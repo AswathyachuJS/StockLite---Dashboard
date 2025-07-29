@@ -41,8 +41,18 @@ cd StockLite---Dashboard
 pip install -r requirements.txt
 streamlit run app.py
 
-✨ About the Developer
-Created with ❤️ by Aswathy J S
+
+👩‍💻 Author
+Aswathy J S
 
 📝 License
-This project is licensed under the MIT License. Feel free to use, modify, and share!
+This project is open-source and available under the MIT License.
+
+🙌 Acknowledgments
+Yahoo Finance (via yfinance)
+
+Streamlit Community
+
+GitHub & Open Source Contributors
+
+
