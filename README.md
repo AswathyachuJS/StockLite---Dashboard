@@ -1,58 +1,69 @@
 # 📊 StockLite Dashboard
 
-Welcome to **StockLite**, a lightweight and powerful stock market dashboard built using **Streamlit** and **YFinance**. It offers a clean and intuitive interface for analyzing real-time stock data, visualizing trends, and making informed decisions—perfect for beginners, investors, and data enthusiasts.
+**StockLite** is a lightweight, real-time stock market dashboard built with **Streamlit** and powered by **YFinance**. Whether you're an investor, student, or data enthusiast, StockLite gives you quick, visual insights into the stock market without the hassle of installation.
 
-🚀 **Live Demo**:  
-🔗 [Click here to explore the dashboard!](https://stocklite---dashboard.streamlit.app/)
-📱 No installation required. Just open and explore live stock data!
+🚀 **Live App**:
+👉 [Launch StockLite Now](https://stocklite---dashboard.streamlit.app/)
+🖥️ *Runs on Streamlit Cloud — No installation required!*
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-- 🔍 **Real-Time Stock Data** using YFinance API
-- 📈 Interactive **Price Charts** & historical data visualization
-- 📅 User-defined **Date Range** selection
-- 💹 Line charts for **Open, Close, High, Low** prices
-- 🧮 Basic statistical insights like volume and moving averages
-- 🌐 Clean web-based UI with no installations required
+* 🔍 **Real-time stock data** powered by [Yahoo Finance](https://finance.yahoo.com/) (`yfinance`)
+* 📈 **Interactive charts** for Open, Close, High, and Low prices
+* 📅 **Custom date range selection**
+* 🧮 Basic metrics like volume and moving averages
+* ⚡ Simple, elegant UI for fast analysis
+* 🌐 Works on all browsers, desktop & mobile
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Component     | Details              |
-|---------------|----------------------|
-| ⚙️ Framework  | Streamlit            |
-| 📊 Data Source | YFinance API         |
-| 🐍 Language   | Python               |
-| 📦 Libraries  | Pandas, YFinance     |
-| ☁️ Hosting    | Streamlit Cloud      |
+| 🔧 Component    | 💡 Description                |
+| --------------- | ----------------------------- |
+| Python          | Backend logic & data handling |
+| Streamlit       | Web dashboard framework       |
+| YFinance        | Real-time stock market data   |
+| Pandas          | Data manipulation             |
+| Streamlit Cloud | Hosting platform              |
 
 ---
 
-## 📦 Installation
-
-> Clone the repo and run it locally:
+## 📦 Installation (Local Setup)
 
 ```bash
+# Clone the repo
 git clone https://github.com/AswathyachuJS/StockLite---Dashboard.git
 cd StockLite---Dashboard
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run app.py
+```
 
+---
 
-👩‍💻 Author
-Aswathy J S
+## 👩‍💻 Author
 
-📝 License
-This project is open-source and available under the MIT License.
+**Aswathy J S**
+🔗 [GitHub Profile](https://github.com/AswathyachuJS)
 
-🙌 Acknowledgments
-Yahoo Finance (via yfinance)
+---
 
-Streamlit Community
+## 📄 License
 
-GitHub & Open Source Contributors
+This project is licensed under the [MIT License](LICENSE).
 
+---
 
+## 🙌 Acknowledgements
+
+* **[Streamlit](https://streamlit.io/)** – For the intuitive web framework
+* **[Yahoo Finance](https://finance.yahoo.com/)** – For stock market data via `yfinance`
+* **Open-source contributors** – Who make such tools accessible
+
+---
