@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import date
 
 st.set_page_config(page_title='StockLite', layout='wide', initial_sidebar_state='expanded')
-st.title('StockLite - Multi- Stock Real- Time Dashboard')
+st.title('StockLite - Multi-Stock Real-Time Dashboard')
 ticker = st.text_input('Enter Stock Ticker', 'AAPL')
 
 st.sidebar.header("⚙️ Select Options")
