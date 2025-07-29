@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-streamlit
-yfinance
-pandas
-=======
-streamlit
-yfinance
-pandas
->>>>>>> ec808427d1d11ac30cd220f52a84d922a13c3e02
