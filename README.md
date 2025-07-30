@@ -35,8 +35,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/AswathyachuJS/StockLite---Dashboard.git
-cd StockLite---Dashboard
+git clone https://github.com/AswathyachuJS/StockLite-Dashboard.git
+cd StockLite-Dashboard
 
 # Install dependencies
 pip install -r requirements.txt
